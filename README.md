@@ -2,14 +2,14 @@
 
 ## 1. Screenshot
 
-![API Screenshot](https://drive.google.com/file/d/1_rQBp2x9M4m0N--b3_otBSSrBEIAopI6/view?usp=sharing)
+![API Screenshot](https://github.com/lakshitaaS/Weather-API/blob/main/Code%20Screenshot_WeatherAPI.jpeg)
 
 ## 2.Architecture Diagram
 
 <!-- Architecture Diagram -->
-![Architecture Diagram](https://drive.google.com/file/d/1SjvOK0wnLc7qZNNqNbDz1k3lvtFuerUF/view?usp=drive_link)
+![Architecture Diagram](https://github.com/lakshitaaS/Weather-API/blob/main/ArchitectureDiagram_WeatherAPI.jpeg)
 
 <!-- Code using Github Pilot -->
-![GithubCopilot](https://drive.google.com/file/d/1fTfIpRy6jLuBfzR8YAco1nzL8FaKW3a/view?usp=drive_link)
+![GithubCopilot](https://github.com/lakshitaaS/Weather-API/blob/main/GithubCopilot_WeatherAPI.jpeg)
 
 ## 3. Description
